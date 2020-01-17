@@ -4,7 +4,7 @@ end
 
 def summon_captain_planet(array)
 
-
+  array.collect { |x| "#{x.upcase}!"}
 
 end
 
