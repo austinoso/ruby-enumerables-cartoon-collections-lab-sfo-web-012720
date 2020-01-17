@@ -8,7 +8,7 @@ end
 
 def long_planeteer_calls(array)
 
-  array.any?{|x| word.length > 4}
+  array.any? {|x| word.length > 4}
 
 end
 
